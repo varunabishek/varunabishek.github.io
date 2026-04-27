@@ -6,37 +6,25 @@ Date: 2026-01-10
 This blog is about GenAI, LLMs, machine learning, Python, and tech education. I write about what I'm learning, building, and experimenting with in the world of Generative AI. I'm not a professional writer, but the more I write, the better I get.
 
 # About Me
+About Me
 
-I'm **Raja CSP Raman** — an engineer, educator, author, and founder.
+I'm Varun Abishek, a B.Tech undergraduate in Artificial Intelligence and Data Science at the Hindustan Institute of Technology, and I'm currently experimenting with the intersection of smart systems and innovation. My tech journey is underpinned by a simple philosophy: learning is best achieved through a synthesis of theory and practice.
 
-From a rural school in Odiapatti to a career spanning multiple continents, my journey has been driven by curiosity and a deep commitment to giving back. I'm an alumnus of **Thiagarajar College of Engineering** and started my career working alongside IIT Madras professors at **NMSWorks** (a parent company of Zoho).
+I've developed a diverse skill set that ranges from creation to communication. I play my music on a Python instrument, and have conducted powerful backend services using FastAPI, while Git ensures my code is well-organised and collaborative. But I also enjoy explaining technology - writing technical articles and speaking at events - to distill the esoteric into the comprehensible. LangChain has been especially enlightening, allowing me to seamlessly integrate language models into meaningful systems.
 
-I moved to Canada in 2010 and studied at **Humber Institute of Technology** in Toronto. Over 13 years in Ontario, I built a career working with American and European clients across diverse tech domains — from ticketing systems to retail and gaming technology.
+At present, I'm expanding my horizons in two ways. I am building on my understanding of the fundamentals of Machine Learning, while delving into the cutting-edge of Generative AI - mastering Large Language Models (LLMs), designing Retrieval Augmented Generation (RAG) systems and experimenting with the agentic capabilities of LangGraph. Simultaneously, I'm enhancing this skill set with Node.js, HTML and CSS, understanding transformative AI needs transformative UIs. This path of deepening expertise and breadth of knowledge is how I'm gearing up for a future where AI systems are integrated into all solutions.
 
-Throughout my career, I've dedicated my weekends to mentoring students from rural backgrounds, teaching them cutting-edge technologies through one-on-one sessions. The impact: **442 students** have secured their first jobs through my guidance, with over **30 of them** now earning more than ₹20 lakhs annually.
+At Hindustan Institute of Technology, I'm not just earning a degree, but designing a professional skill set to make a difference in the world of AI. I have a clear mission: to create systems that not only work, but think and learn.
 
-## Current Work
 
-I'm the founder of **[Kactii](https://app.kactii.com/c/raja)** — a GenAI Agent Marketplace. I also operate **Kactii Academy** from Toronto, focusing on nurturing both Canadians and South Indians in the latest GenAI technology stack. Previously, I led **Aracor** as Head of AI & Engineering, where I managed an 11-member team and initiated the AI roadmap for AracorAI.
-
-I'm also the founder of **Featurepreneur**, an invitation-only Slack community focused on student development, supporting Canadian SMEs and startups on their micro features.
-
-My ambitious 10-year mission is to establish **Tamil Nadu as the GenAI Hub of India**, a vision I'm actively pursuing through collaborations with engineering colleges across Tamil Nadu.
-
-## Publications & Open Source
-
-- Author of **"Building RESTful Web Services with Spring 5"**
-- Published **8 research papers** on Arxiv, with collaborative student efforts
-- PyPI / FOSS contributions: **Agentic Optio** (lightweight LangChain alternate), **TokSum** (GenAI token counter), **Tamil Tokenizer**
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/raja-csp-raman/)
-- [GitHub](https://github.com/rajacsp)
-- [PyPI](https://pypi.org/user/rajacsp/)
-- [Google Scholar](https://scholar.google.com/citations?user=rajacsp)
-- [Kactii](https://app.kactii.com/c/raja)
+- [LinkedIn](https://linkedin.com/in/varun-abishek-752a33214)
+- [GitHub](https://github.com/varunabishek)
+- [Pynotes](https://varunabishek.github.io/pynotes/)
+- [Substack](https://articlevil.substack.com/)
 
 ## Outside of Tech
 
-When I'm not shaping the future of tech education, you might find me unwinding with a John Grisham novel.
+When I'm not actively pursuing my hectic gen-ai roadmap, you will find me with either a cricket bat in my hands or a controller. 
