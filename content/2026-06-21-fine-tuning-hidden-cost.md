@@ -22,7 +22,7 @@ Three months and a meaningful chunk of his budget later, his AI assistant was ba
 
 This happens more often than you’d think. So let’s talk about what fine-tuning actually is, why it’s so tempting, and why it quietly costs far more than the price tag suggests.
 
-What fine-tuning actually means
+## What fine-tuning actually means:
 
 Think of a general-purpose AI model like a brilliant new employee, fresh out of a top university. They know a little about everything — law, medicine, coding, history — but nothing about your business specifically.
 
