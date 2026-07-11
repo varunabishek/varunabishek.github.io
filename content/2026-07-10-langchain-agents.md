@@ -2,7 +2,7 @@ Title: Agents vs. Chains in LangChain: Who's Actually Driving?
 Date: 2026-07-10
 Category: GenAI
 Tags: GenAI, LLM, LangChain, Agents
-Slug: Who's-Actually-Driving?
+Slug: Whos-Actually-Driving
 
 
 *A chain follows the map you drew. An agent draws its own.*
